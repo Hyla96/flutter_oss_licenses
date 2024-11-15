@@ -60,9 +60,11 @@ packages:
   dart_pubspec_licenses:
     dependency: transitive
     description:
-      path: "../../dart_pubspec_licenses"
-      relative: true
-    source: path
+      path: "packages/dart_pubspec_licenses"
+      ref: ignore-option-local
+      resolved-ref: a408079e00eda65691cff8e0b3f5a5a4a3549584
+      url: "https://github.com/Hyla96/flutter_oss_licenses"
+    source: git
     version: "3.0.2"
   fake_async:
     dependency: transitive
